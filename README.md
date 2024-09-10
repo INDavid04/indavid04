@@ -1,7 +1,14 @@
 ## Hi there 👋
 
-<!-- roadmap.sh/account/road-card -->
-[![roadmap.sh](https://roadmap.sh/card/tall/66daa6a9c46f68d05288fa70?variant=dark&roadmaps=backend)](https://roadmap.sh)
+### Here is my back-end progress from [roadmap.sh](https://roadmap.sh/r/backend-iukl8)
+[![roadmap.sh](https://roadmap.sh/card/tall/66daa6a9c46f68d05288fa70?variant=dark)](https://roadmap.sh)
+
+### More
+- 🔭 I’m currently working on building my portofolio
+- 🌱 I’m currently learning back-end
+- 📫 How to reach me: [via linkedin](https://www.linkedin.com/in/david-irimia-b741b7204/)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: The project for my sister ([dinbook.github.io/acasa](https://dinbook.github.io/acasa/)) is looking better than my portofolio right now!
 
 <!--
 **INDavid04/indavid04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
